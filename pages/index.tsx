@@ -17,7 +17,7 @@ export default function Home() {
         </h2>
 
         <p className={styles.description}>
-          This is a placeholder site until we code a full one. <br /> Until then, remember… <em>it's all objects</em>!
+          This is a placeholder site until we code a full one. <br /> Until then, remember… <em>it's all objects (and also ᓚᘏᗢs)</em>!
         </p>
 
         <div className={styles.grid}>
