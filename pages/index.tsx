@@ -1,16 +1,16 @@
 export default function index() {
     return (
-          <body className="space-y-8 md:space-y-4 pl-2 pt-2">
+          <body className="space-y-6 md:space-y-4 pl-2 pt-2">
           <div className="bg-gray w-screen">
-            <h1 className="text-white font-semibold text-5xl text-center">
+            <h1 className="text-white font-semibold text-4xl text-center">
               Welcome to the Cat Dev Group Website!
             </h1>
-          <blockquote className="pt-4">
+          <blockquote className="pt-3">
           <p className="text-white font-bold text-center text-lg">
             <em>Your official hub for Cat Spam.</em>
           </p>
           </blockquote>
-          <p className="pt-6 text-white font-semibold text-xl text-center">
+          <p className="pt-5 text-white font-semibold text-xl text-center">
             We're currently under construction at the moment! We apologize for the inconvenience.
           </p>
           </div>
