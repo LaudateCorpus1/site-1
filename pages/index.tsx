@@ -2,7 +2,7 @@ export default function index() {
     return (
           <body className="space-y-6 md:space-y-4 pl-2 pt-2">
           <div className="bg-gray w-screen">
-            <h1 className="text-white font-semibold text-4xl text-center">
+            <h1 className="text-white font-semibold text-3xl text-center">
               Welcome to the Cat Dev Group Website!
             </h1>
           <blockquote className="pt-3">
