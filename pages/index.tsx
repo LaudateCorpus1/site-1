@@ -2,10 +2,11 @@ import Head from 'next/head'
 
 export default function home() {
     return (
-          <Head>
+        <!DOCTYPE HTML>
+          <head>
             <title>Home | Cat Dev Group</title>
             <meta name="description" content="The Homepage for the Cat Dev Group." />
-          </Head>
+          </head>
           <body className="space-y-6 md:space-y-4 pt-2">
           <div className="bg-gray w-screen">
             <h1 className="text-white text-3xl text-center">
