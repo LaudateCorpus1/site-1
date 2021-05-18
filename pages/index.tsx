@@ -1,6 +1,6 @@
 export default function home() {
     return (
-          <body className="space-y-6 md:space-y-4 pl-2 pt-2">
+          <body className="space-y-6 md:space-y-4 pt-2">
           <div className="bg-gray w-screen">
             <h1 className="text-white text-3xl text-center">
               Welcome to the Cat Dev Group Website!
