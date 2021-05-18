@@ -2,7 +2,6 @@ import Head from 'next/head'
 
 export default function home() {
     return (
-        <!DOCTYPE HTML>
           <head>
             <title>Home | Cat Dev Group</title>
             <meta name="description" content="The Homepage for the Cat Dev Group." />
