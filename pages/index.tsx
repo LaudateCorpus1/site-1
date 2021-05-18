@@ -1,4 +1,4 @@
-export default function index() {
+export default function home() {
     return (
           <body className="space-y-6 md:space-y-4 pl-2 pt-2">
           <div className="bg-gray w-screen">
